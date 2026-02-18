@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.DS_Store
+.git
+.gitignore
+README.md
+Dockerfile
+package.json
+yarn.lock
